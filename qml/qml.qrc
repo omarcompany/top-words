@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HistogramItem.qml</file>
+        <file>HistogramView.qml</file>
+        <file>Style.qml</file>
+        <file>qmldir</file>
+    </qresource>
+</RCC>
